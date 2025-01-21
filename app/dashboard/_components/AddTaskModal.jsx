@@ -46,7 +46,6 @@ const Modal = ({ onClose }) => {
       status,
       collaborators: selectedUsers,
     };
-    console.log(newTask);
 
     try {
       const response = await fetch("/api/task/addnewtask", {

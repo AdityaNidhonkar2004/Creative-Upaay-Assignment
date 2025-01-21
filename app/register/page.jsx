@@ -41,7 +41,6 @@ const Register = () => {
             }
         } catch (error) {
             toast.error("Invalid credentials")   
-            console.log(error);
         }finally{
             setLoading(false);
         }
