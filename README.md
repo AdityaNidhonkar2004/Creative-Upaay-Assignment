@@ -34,7 +34,7 @@ Make sure you have the following installed:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/AdityaNidhonkar2004/Creative-Upaay-Assignment
+   [git clone https://github.com/AdityaNidhonkar2004/Creative-Upaay-Assignment.git
    ```
 
 2. **Install dependencies:**
